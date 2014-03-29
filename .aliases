@@ -1,0 +1,13 @@
+
+# PhpSpec
+
+alias specr='bin/phpspec run'
+alias specd='bin/phpspec describe'
+
+
+# Git
+
+alias gits='git status'
+
+# git lg
+git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%C(bold blue)<%an>%Creset' --abbrev-commit"
